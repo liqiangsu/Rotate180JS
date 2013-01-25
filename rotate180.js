@@ -1,4 +1,4 @@
-function(){
+document.addEventListener('DOMContentLoaded',function(){
 	if (typeof jQuery === "undefined") {
 	var script = document.createElement('script');
 	script.src = 'http://jqueryjs.googlecode.com/files/jquery-1.2.6.min.js';
@@ -17,4 +17,4 @@ function(){
 		images.rotate(0);
 	}
 	
-}
+})
