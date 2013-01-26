@@ -16,5 +16,4 @@ document.addEventListener('DOMContentLoaded',function(){
 	}else{
 		images.rotate(0);
 	}
-	
-})
+});
