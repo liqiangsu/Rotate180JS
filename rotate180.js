@@ -6,7 +6,7 @@ document.addEventListener('DOMContentLoaded',function(){
 	document.getElementsByTagName('head')[0].appendChild(script);
 	}
 	var script = document.createElement('script');
-	script.src = 'http://jqueryrotate.googlecode.com/files/jQueryRotateCompressed.2.2.js';
+	script.src = 'http://raw.github.com/sudevil1989/Rotate180JS/master/jQueryRotate.2.2.js';
 //	script.type = 'text/javascript';
 	document.getElementsByTagName('head')[0].appendChild(script);
 
